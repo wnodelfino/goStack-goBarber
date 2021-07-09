@@ -29,6 +29,7 @@
         "allowExpressions": true
       }
     ],
+    "@typescript-eslint/ban-types": "off",
     "arrow-parens":"off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
@@ -37,6 +38,7 @@
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "import/prefer-default-export": "off",
     "no-use-before-define": "off",
+    "no-restricted-globals": "off",
     "prettier/prettier": "error",
     "import/extensions": [
       "error",
