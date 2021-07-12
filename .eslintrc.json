@@ -53,7 +53,8 @@
     "indent": "off",
     "operator-linebreak": "off",
     "react/jsx-one-expression-per-line": "off",
-    "implicit-arrow-linebreak": "off"
+    "implicit-arrow-linebreak": "off",
+    "no-console": "off"
   },
   "settings": {
     "import/resolver": {
