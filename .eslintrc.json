@@ -34,6 +34,7 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-props-no-spreading": "off",
+    "react/jsx-curly-newline":"off",
     "react/prop-types": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "import/prefer-default-export": "off",
@@ -54,7 +55,8 @@
     "operator-linebreak": "off",
     "react/jsx-one-expression-per-line": "off",
     "implicit-arrow-linebreak": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "no-confusing-arrow": "off"
   },
   "settings": {
     "import/resolver": {
