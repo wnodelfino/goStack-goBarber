@@ -11,7 +11,7 @@ import { useToast } from '../../hooks/toast';
 
 import LogoImg from '../../assets/logo.svg';
 
-import Input from '../../components/Inpunt';
+import Input from '../../components/Input';
 import Button from '../../components/Button';
 
 import { Container, Content, AnimationContainer, Background } from './styles';
